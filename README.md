@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying Computer Science at Universidade Federal do ABC
+- 🌱 I’m currently doing Computer Science at Universidade Federal do ABC
 - 😄 Pronouns: He/Him
    
 <div align="left">
