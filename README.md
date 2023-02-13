@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently doing Computer Science at Universidade Federal do ABC
-- 😄 Pronouns: He/Him
    
 <div align="left">
   <a href="https://github.com/rafaballerini">
